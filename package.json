@@ -9,7 +9,7 @@
   "dependencies": {
     "@johmun/vue-tags-input": "^1.5.9",
     "axios": "^0.18.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.17",
     "vue-beautiful-chat": "^2.0.0",
